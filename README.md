@@ -8,7 +8,7 @@
 - 5G Wireless Chip: QCN5052
 - Front End Module: QPF4550 ×2
 - 2.4 Wireless Chip: QCN5022
-- Front End Module:QPF4200 ×2
+- Front End Module: QPF4200 ×2
 
 # Xiaomi AX1800
 - RAM: 256M
