@@ -1,1 +1,1 @@
-# OpenWrt-AX5-AX1800
+# OpenWrt for AX5 & AX1800
