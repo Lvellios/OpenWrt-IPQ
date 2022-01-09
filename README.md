@@ -1,3 +1,4 @@
+# This is unfinished, do not use it for now!
 # OpenWrt for AX5 & AX1800 & GL.iNet AX1800
 - [Document](https://github.com/Lvellios/OpenWrt-AX5-AX1800/blob/main/Doc.md)
 
