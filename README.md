@@ -1,4 +1,4 @@
-# OpenWrt for AX5 & AX1800
+# OpenWrt for AX5 & AX1800 & GL.iNet AX1800
 - [Document](https://github.com/Lvellios/OpenWrt-AX5-AX1800/blob/main/Doc.md)
 
 # Redmi AX5
