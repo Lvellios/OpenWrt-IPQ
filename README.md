@@ -2,7 +2,7 @@
 - [Document](https://github.com/Lvellios/OpenWrt-AX5-AX1800/blob/main/Doc.md)
 
 # Redmi AX5
-- RAM: 128M
+- RAM: 256M
 - Flash: 128M
 - SoC: IPQ6000 (Quad Cores A53@1.0-1.2 Ghz, 1 NPU@1.5 GHz)
 - Switch Chip: IPQ8075
