@@ -1,4 +1,4 @@
-name: Compile-AX1800
+name: Compile AX1800
 
 on:
   repository_dispatch:
