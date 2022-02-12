@@ -1,5 +1,5 @@
-# This is unfinished and do not use it for now!
-# OpenWrt for AX5 & AX1800 & GL.iNet AX1800
+# Experimental Phase and Don't use it for NOW!
+# OpenWrt for Redmi AX5 and Xiaomi AX1800
 - [Document](https://github.com/Lvellios/OpenWrt-AX5-AX1800/blob/main/Doc.md)
 
 # Redmi AX5
