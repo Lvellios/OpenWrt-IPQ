@@ -19,7 +19,7 @@ env:
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
   TZ: Canada/Atlantic
-  FILE_NAME: AX5-AX1800
+  FILE_NAME: OpenWrt Redmi AX5 & Xiaomi AX1800
 
 jobs:
   build:
@@ -132,6 +132,6 @@ jobs:
         commit: main
         token: ${{ secrets.RELEASES_TOKEN }}
         body: |
-          For Redmi AX5 AX1800
+          For AX5 & AX1800
           ${{ env.useVersionInfo }}
         artifacts: ${{ env.FIRMWARE }}/*
