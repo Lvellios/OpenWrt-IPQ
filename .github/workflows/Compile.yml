@@ -132,7 +132,7 @@ jobs:
         commit: main
         token: ${{ secrets.RELEASES_TOKEN }}
         body: |
-          For AX5 & AX1800
+          For GL.iNet GL-AX1800
           ${{ env.useVersionInfo }}
         artifacts: ${{ env.FIRMWARE }}/*
 
