@@ -10,8 +10,18 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  # REPO_URL: https://github.com/openwrt/openwrt
+  # REPO_URL: https://github.com/Lienol/openwrt
+  # REPO_URL: https://github.com/immortalwrt/immortalwrt
+  # REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: https://github.com/KFERMercer/OpenWrt
   REPO_BRANCH: master
+# REPO_BRANCH: 21.02 --single-branch
+# REPO_BRANCH: 19.07 --single-branch
+# REPO_BRANCH: main --single-branch
+# REPO_BRANCH: openwrt-18.06 --single-branch
+# REPO_BRANCH: openwrt-21.02 --single-branch
+# REPO_BRANCH: openwrt-18.06-k5.4 --single-branch
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
@@ -47,6 +57,7 @@ jobs:
       run: |
         df -hT $PWD
         git clone $REPO_URL -b $REPO_BRANCH openwrt
+      # git clone -b $REPO_BRANCH $REPO_URL openwrt
         ln -sf /workdir/openwrt $GITHUB_WORKSPACE/openwrt
 
     - name: Load Custom Feeds
