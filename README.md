@@ -51,7 +51,7 @@
 * Switch: QCA8084
 * 10G Switch: AQR113C
 * 5G WiSoC: QCN6274 (2.4/5/6GHz, Wi-Fi 6E, 4096QAM), FEM: QPF4559 x4
-* 2.4G WiSoC: QCN6214, FEM: QPF4259 x4
+* 2.4G WiSoC: QCN6214, (Wi-Fi 6, 4096QAM), FEM: QPF4259 x4
 * Power Management: Unkown
 
 ### BE7000 (Fake Wi-Fi 7)
