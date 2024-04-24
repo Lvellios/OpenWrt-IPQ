@@ -1,5 +1,18 @@
 # OpenWrt for IPQ
 
+## Wi-Fi 7 (802.11be)
+* 2.4 GHz, 5 GHz, 6 GHz
+* 320 (160+160) MHz, 240 (160+80) MHz
+* 4096-QAM (4K-QAM)
+
+## Wi-Fi 6E (802.11ax)
+* 6 GHz
+
+## Wi-Fi 6 (802.11ax)
+* 2.4 GHz, 5 GHz
+* 20/40/80/160 MHz
+* 1024-QAM
+
 ## XiaoMi
 ### BE10000 (Fake Wi-Fi 7)
 * Processor: IPQ9570（Quad Cores A73@2.2 Ghz, 2 NPU@1.7 GHz)
