@@ -72,14 +72,13 @@
 * 6G WiSoC: Not Support
 * 5G WiSoC: QCN6224, FEM: QPF4559 x4
 * 2.4G FEM: QPF4529 ×2
-* Power Management: ?
 
-### BE6500
+### BE6500 (Fake Wi-Fi 7)
 * Processor: IPQ5312（Quad Cores A53@1.1 Ghz, 1 NPU@1.0 GHz)
-* RAM:
-* Flash:
-* Switch:
-* 6G WiSoC:
-* 5G WiSoC:
-* 2.4G WiSoC:
-* Power Management:
+* RAM: 256MB, GDP1BFLM-CB
+* Flash: 128MB, GD5F1GM7REYIG
+* Switch: YT9215S
+* 6G WiSoC: Not Support
+* 5G WiSoC: QCN6402, FEM: KCT8576HE x2
+* 2.4G FEM: KCT8245SD x2
+* 2.5G PHY: YT8821C
